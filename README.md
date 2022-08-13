@@ -1,2 +1,2 @@
 # PersonalTutor
-Projects related to Python Learning
+Projects Related to Computer Language Learning
